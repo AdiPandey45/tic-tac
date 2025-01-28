@@ -3,7 +3,7 @@ const boxes=document.querySelectorAll(".box");
 const newgame=document.querySelector(".btn");
 
 
-let currentPlayer;
+let currentPlayer; 
 let gameGrid;
 
 const winningPositions=[
